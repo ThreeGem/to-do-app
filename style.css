@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: #CFEDF6;
+    text-align: center;
+    font-size: 16px;
+    color: #E07A5F;
+    font-family: "roboto", "SF", sans-serif;
+  }
+#addToDoForm {
+    color: #CD6200;
+}
+
+#toDoList {
+    color: #CD6200;
+    padding-left: 600px;
+    width: 10%;
+    text-align: left;
+}
+
+.header_box {
+  padding: 15px;
+}
+
+.primary–span {
+  display: inline-block;
+  max-width: 133px;
+}
+
+#newToDoText {
+  width: 25%;
+  padding: 12px 20px;
+  margin: 0 0 30px 0;
+  border: 2px solid #FFC109;
+}
